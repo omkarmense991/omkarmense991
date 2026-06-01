@@ -123,12 +123,6 @@ Recommendation Systems, Personalization, Retrieval, Ranking, ML System Design
 
 B.Tech + M.Tech (Computer Science & Engineering)
 
-Research Area:
-
-**Drone Networks for Optimized IoT Traffic Management**
-
----
-
 ## Currently Learning
 
 * Machine Learning Engineering
