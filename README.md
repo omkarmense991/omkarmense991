@@ -135,7 +135,7 @@ B.Tech + M.Tech (Computer Science & Engineering)
 
 ## Connect With Me
 
-* LinkedIn: [Add LinkedIn URL]
+* LinkedIn: https://www.linkedin.com/in/omkar-mense-0b6a79175/
 * GitHub: https://github.com/omkarmense991
 
 ---
